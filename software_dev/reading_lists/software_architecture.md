@@ -1,0 +1,16 @@
+## Orielly 
+- Fundamentals of Software Architecture
+- Software Architecture: The Hard Parts
+- Building Evolutionary Architectures, 2nd Edition
+- The Software Architect Elevator
+- Foundations of Scalable Systems
+- Learning Domain-Driven Design
+- Software Architecture Metrics
+- Mastering API Architecture
+- Building Event-Driven Microservices
+- Microservices Up and Running
+- The Art of Agile Development, 2nd Edition
+- Flow Architectures
+- Building Micro-Frontends
+- Monolith to Microservices
+- Continuous API Management, 2nd Edition
