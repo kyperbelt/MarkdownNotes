@@ -172,3 +172,6 @@
 * **Feedback Sandwich**
     - person **A** provides reinforcing feedback, followed by changed-focused feedback followedagain by reinforcing feedback.
     > :information_source: Give smaller feedback so its easier to digest.
+
+### Summary 
+This chapter highlights the importance interpersonal skills and treating members of the teams as human instead of resources. Team members are expected to collaborate, seek help when needed and not be afraid to fail through experimentation. Feedback plays an important role in collaboration and improves team performance by encourging different viewpoints on the same problem. 
