@@ -27,20 +27,53 @@
 
 ##### Services
 * User Authorization & Authentication Service
+    - **Description:** API for user authentication, user creation. 
     - database
     - REST API
     - docker
+
+* User Subscription Management Service
+    - **Description:** Subscription management service, handles users subscription status and api calls to third party (stripe?). 
+    - database
+    - REST API
+    - docker
+
 * Content Management Service
+    - **Description:** Manage content on the front page, about page, and other website informational pages.
     - database
     - REST API
     - docker
-* 
+
+* Programming Library Service
+    - **Description:**: API for allowing authorized users (coach) to create personalized programming for authenticated users.
+    - database
+    - REST API
+    - docker
+
+* Movement Library Service
+    - **Description:**: API for managing content of the user library :warning: THis one seems like it can fit inside content management service.
+    - database
+    - REST API
+    - docker
+
 * Coach & Client Communication
+    - **Description:** API for handling messages between authorized users and the coach.
     - database
     - REST API
     - docker
+
 * Proxy Service
     - **Description** acts as a single point of acces and manages communication between the backend services and the front-end
+    - REST API
+    - docker
+
+Regular **Markdown** here.
+
+
+![](firstDiagram.svg)
+
+Some more markdown.
+
 
 ###### Amir
 * Database
