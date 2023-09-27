@@ -3,21 +3,21 @@ title: WEEK 5
 ---
 # WEEK 5
 
-## Study guide
-2 Essay questions, 3 paragraphs each (1 full page). 
+<!-- ## Study guide -->
+<!-- 2 Essay questions, 3 paragraphs each (1 full page).  -->
 
-## Question 1
-### problem of induction
-### humes solution
-### why his solution sucks
-### provide example from class
-### provide example of your own.
-
-## Question 2
-### Explain process of retroduction
->  Focused only on inference
-### Example from class
-### Example of your own
+<!-- ## Question 1 -->
+<!-- ### problem of induction -->
+<!-- ### humes solution -->
+<!-- ### why his solution sucks -->
+<!-- ### provide example from class -->
+<!-- ### provide example of your own. -->
+<!---->
+<!-- ## Question 2 -->
+<!-- ### Explain process of retroduction -->
+<!-- >  Focused only on inference -->
+<!-- ### Example from class -->
+<!-- ### Example of your own -->
 
 
 ### 1920->Marry Heger (astronomer)

@@ -13,6 +13,14 @@ A lot of you expressed interest in learning and gaining experience with more tha
 * Database
 * API
 
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: Another authentication Response
+@enduml
+
 ## Other Benefits
 
 * **Domain Expertise**
@@ -29,6 +37,7 @@ Each member of the team owns their own service and is in charge of maintaing API
 
 * **Constraint**: 
     - Must use same language for ease of code review by other members of the team.
+    - Communication with other members of the team is crucial.
 
 * **Pros**:
     - Wider breadth of expertise from setting up a backend service.
@@ -37,3 +46,20 @@ Each member of the team owns their own service and is in charge of maintaing API
 * **Cons**: 
     - Duplication 
         > :warning: We can fight this by sharing knowledge across services
+        - Responsibility
+        - Code 
+        - Technologies
+
+## Posible team Layouts 1
+We consolidate the microservices down to 2-3 and have teams of 2-3 tackle each one. 
+
+* **Constraint**: 
+    - Same langauge is not required because you will have members in your subteam who will be able to code review you.
+    - 
+
+* **Pros**:
+    - More people to bounce off of.
+    - Less Duplication
+
+* **Cons**: 
+    - C

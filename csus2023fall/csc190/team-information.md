@@ -21,10 +21,6 @@
 * Blake
 * David
 
-* As a coach, I want to create and edit workout plans with detailed exercises and instructions. (Ask Alex for more clarity)
-* As a coach, I want to organize and categorize workout plans and videos for easy access. (Ask Alex for clarity)
-* As an authorized user (client or coach), I want to browse the Movement Library and access instructional workout videos.
-* As an authorized user (client or coach), I want to browse the Programming Library and access personalized workout plans.
 
 ##### Services
 * User Authorization & Authentication Service
@@ -68,12 +64,6 @@
     - REST API
     - docker
 
-Regular **Markdown** here.
-
-
-![](firstDiagram.svg)
-
-Some more markdown.
 
 
 ###### Amir
