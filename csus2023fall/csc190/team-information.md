@@ -19,6 +19,7 @@
 * Jeff 
 * Joshua
 * Blake
+* David
 
 * As a coach, I want to create and edit workout plans with detailed exercises and instructions. (Ask Alex for more clarity)
 * As a coach, I want to organize and categorize workout plans and videos for easy access. (Ask Alex for clarity)
