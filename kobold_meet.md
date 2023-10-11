@@ -27,7 +27,12 @@ We don't have a simple way for the sound team to ealy integrate sounds into our 
 - Allow bulk changes in grouped music and sounds.
 
 ### Requirements
-- As a sound designer I want to 
+| # | Story                                                                             | Priority |
+| - | -                                                                                 | -        |
+| 1 | As a sound team member I want an easy way to crossfade from one sound to another. | 0        |
+| 2 | As a sound team member I want to be able create events that can be used by        | 0        |
+
+
 ### Design
 #### Mockups
 #### Architecture

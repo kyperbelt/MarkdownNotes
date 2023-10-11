@@ -37,9 +37,9 @@ title: Chapter 5
 ## Project Charter: Include Team
 - Include entire team when developing the project charter
     - team needs to own the project charter
-- Create a one hour timebox (workshop meeting)
+- Create a one-hour timebox (workshop meeting)
     - Discuss the vision and release criteria
-    - Whats the difference between ws and meeting?
+    - What's the difference between ws and meeting?
         > :warning: workshops are for working together and collaborating, meetins are for convering information.
 
     

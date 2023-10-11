@@ -1,8 +1,12 @@
 * definition of an agile project.
+    > :information_source: A seriers of tasks that need to be completed to reach a specific goal. Temporary in nature, with a beginning and an end date.
+    - problems
+        - **The team thinks they can work without collaboration, this is wrong.**
     - mindset
-        - be open to change.
+        - **be open to change.**
 * what are iterations agile vs flow rate
     - Iteration
+        - deliver a little, get feedback and repeat.
         - scrum
             - daily standup
             - sprint planning

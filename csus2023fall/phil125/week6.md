@@ -7,16 +7,16 @@ title: Week 6
 
 ### Aguste Comte 1800
 1. **Theological Stage**
-    Explain natural phenomena appealing to super natural forces.
+    Explain natural phenomena appealing to supernaturalforces.
     (*example*: rain caused by crying gods)
 2. **Metaphysical Stage** 
     You explain natural phenoma by unobservable principles or causes.
     (*example*: Substances, occult, powers, etc.)
 
-> Rene Descartes
+> René Descartes
 3. **Logical or positivist Stage**
-    Science doesnt explain things only describes the observable behavior of physical objects.
-    ( *Example:* What is force? the acceleration of the speed of a mass) 
+    Science doesn't explain things only describes the observable behavior of physical objects.
+    (Example:* What is force? The acceleration of the speed of a mass) 
     > :construction: example by prof throwing markers around like a cat :cat: off the table.
 
 ## Logical Positivists are intellectual heirs of conte and Hume
