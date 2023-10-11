@@ -45,3 +45,30 @@ Example list:
     - **3** Wax is an extended substance 
     - **3** I love you 
     - **2** The acceleration due to gravity is approx 10/ms
+
+> :warning: Since there is no dephts; there is surface everywhere. Sience is about describing and predicting observable phenomena.
+
+* **Then why is science full of unobservable things?** (*Think electrons* ) 
+    - The **logical positivist response to this is:**
+        - yes but those unobservable things are always cashed out in observational terms.
+        - moreover, unobservable properties or entities/processes are nothing more than the outcome of **operational protocols**.
+* **What is...** 
+    > must define unobservable in operational terms that can be measured.
+    - **Love?** 
+        - **operational protocols** 
+    - **Temperature?** 
+    - **Intelligence?** 
+    - **Energy?** 
+    - **Atom** 
+
+
+## Problems with logical positivism
+> person intellect example "you are a wizard harry"
+Different operational protocols giving the same result forces LP to say the they are coincidental 
+
+### What do Logical positivist think about light?
+- How do they think that it works?
+- what do they think about photons (1905) ? do they believe in it?
+- How do cameras work first invented (1816)?
+
+
