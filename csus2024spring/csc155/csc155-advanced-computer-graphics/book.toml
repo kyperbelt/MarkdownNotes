@@ -1,0 +1,13 @@
+[book]
+authors = ["kyperbelt"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CSC155 Advanced Computer Graphics Notes"
+
+[output.html]
+mathjax-support = true
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"

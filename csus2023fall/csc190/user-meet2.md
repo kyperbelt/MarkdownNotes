@@ -1,0 +1,7 @@
+- Stripe 
+- React (front end) 
+- Spring Boot
+- (Waiver - Tabled)
+- AWS SQL 
+- AWS S3 
+- AWS Cloud

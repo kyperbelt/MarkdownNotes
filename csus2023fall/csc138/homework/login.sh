@@ -1,2 +1,4 @@
+#! /bin/bash
+computer=$1
 
-ssh jcamarenacamacho@ecs-coding1.csus.edu
+ssh "jcamarenacamacho@ecs-coding${computer}.csus.edu"
