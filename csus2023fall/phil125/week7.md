@@ -22,8 +22,13 @@ Crobes example
 The use of scientific instruments makes the distinction between observable and unobservable completely arbitrary.
 
 <u>**Bas C. Van Frassen**</u>
-- Not a Science Skeptic.
+- Anti -realist
+- **Not a Science Skeptic**
 - Trusts Scientific Predictions 
 - Claims about unobservables are important. 
 - The observable/unobservable distinction is vague but not arbitrary.
     > :warning: vague does not mean arbitrary even though.
+
+- **For every scientific theory there is an alternative that is equally empirically adaquate.** 
+    - The only  criterion for theory choice is empirical adequacy. 
+    - You can't know if for sure your theories are correct. 
