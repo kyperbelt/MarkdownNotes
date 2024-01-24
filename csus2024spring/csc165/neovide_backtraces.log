@@ -1,0 +1,57 @@
+2024-01-23 17:01:16 - Neovide panicked with the message 'Failed to create OpenGL context: Error { raw_code: Some(2), raw_os_message: Some("BadValue (integer parameter out of range for operation)"), kind: BadAttribute }'. (File: src/renderer/opengl.rs; Line: 119, Column: 10)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: __libc_start_call_main
+             at ./csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+  13: __libc_start_main_impl
+             at ./csu/../csu/libc-start.c:392:3
+  14: <unknown>
+
+2024-01-23 17:01:51 - Neovide panicked with the message 'Failed to create OpenGL context: Error { raw_code: Some(2), raw_os_message: Some("BadValue (integer parameter out of range for operation)"), kind: BadAttribute }'. (File: src/renderer/opengl.rs; Line: 119, Column: 10)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: __libc_start_call_main
+             at ./csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+  13: __libc_start_main_impl
+             at ./csu/../csu/libc-start.c:392:3
+  14: <unknown>
+
+2024-01-23 17:02:06 - Neovide panicked with the message 'Failed to create OpenGL context: Error { raw_code: Some(2), raw_os_message: Some("BadValue (integer parameter out of range for operation)"), kind: BadAttribute }'. (File: src/renderer/opengl.rs; Line: 119, Column: 10)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: __libc_start_call_main
+             at ./csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+  13: __libc_start_main_impl
+             at ./csu/../csu/libc-start.c:392:3
+  14: <unknown>
+

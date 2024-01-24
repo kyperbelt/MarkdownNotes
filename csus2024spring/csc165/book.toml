@@ -1,0 +1,6 @@
+[book]
+authors = ["kyperbelt"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CSC 165 Computer Game Architecture and Implementation"
