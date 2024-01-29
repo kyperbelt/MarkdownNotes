@@ -1,0 +1,6 @@
+[book]
+authors = ["kyperbelt"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CSC 192 Career Planning Seminar"
