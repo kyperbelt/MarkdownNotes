@@ -67,6 +67,7 @@ Because I am using nvim, having the above rudementary setup was pretty nightmari
     ```
 
     Then in my **build.gradle** I put the following: 
+
     ```java
     plugins{
             id 'application'
@@ -108,4 +109,45 @@ Because I am using nvim, having the above rudementary setup was pretty nightmari
             mainClass = 'code.Code'
     }
     ```
+
     This added a bunch of tasks to the gradle because of the `application` plugin and it lets me use `./gradlew run` to run the application, but most importantly it allows jdtls to pick up my project, index it, and give me that sweet, sweet IDE experience!
+
+## Extra 
+
+- Code adds all jars in a folder into a classpath variable. 
+```bash
+for jar in $JAVA_GRAPHICS_GAMING_LIBS/*.jar
+do
+    if [ -z "$classpath" ]; then
+        classpath="$jar"
+    else
+        classpath="$classpath:$jar"
+    fi
+done
+```
+
+- Code find all java files in a Directory recursively
+
+```bash
+SEACH_DIR="./tage/"
+
+JAVA_FILES=$(find $SEARCH_DIR -name "*.java")
+```
+
+- Adding jinput natives to library path
+```bash 
+PATH_TO_JINPUT_NATIVE="path/to/natives"
+
+export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$JAVA_GRAPHICS_GAMING_LIBS/jinput/lib:"
+```
+
+- Setting working directory (resources)
+```bash
+# This sets to current directory, but yo ucan specify someething else
+WORKING_DIR=$(pwd)
+
+# in the javac params you must specify 
+# ... means other stuff
+javac ... -Duser.dir:$WORKING_DIR ...
+```
+
