@@ -4,7 +4,7 @@
 Ghassan Shobaki
 
 ## Times and Location
-Mon-Wed-Fr 8AM-8:50AM | Riverside Hall 5020
+Mon-Wed-Fr 8AM-8:50AM | ~~Riverside Hall 5020~~ Library 3021
 
 ## Course Playlist
 [Youtube Playlist](https://www.youtube.com/playlist?list=PL6KMWPQP_DM-7tMNjUa7X2zGrc8jipPeI)
@@ -21,6 +21,8 @@ Operating System Concepts (10<sup>th</sup> or 9<sup>th</sup> Edition)
 | TBD             | Final Exam      | Week 1-15       |
 
 ## Grading Weights
+> :warning:**IMPORTANT**  To pass theh course you **MUST** pass the exams with above 50%.  
+
 | Item            | Weight          |
 | --------------- | --------------- |
 | Assignments     | 15%             |
@@ -29,17 +31,17 @@ Operating System Concepts (10<sup>th</sup> or 9<sup>th</sup> Edition)
 | Final Exam      | 40%             |
 
 ## Grading Rubric 
-| Grade           | Percentage      |
-| --------------- | --------------- |
-| A+              | 95 (unofficial  |
-| A               | 90              |
-| A-              | 85              |
-| B+              | 75              |
-| B+              | 70              |
-| B-              | 65              |
-| C+              | 60              |
-| C               | 55              |
-| C -             | 50              |
+| Grade           | Percentage      | Definition of Grades |
+| --------------- | --------------- | ---------------      |
+| A+              | 95 (unofficial  |                      |
+| A               | 90              | Exemplary            |
+| A-              | 85              |                      |
+| B+              | 75              |                      |
+| B               | 70              | Deep understanding   |
+| B-              | 65              |                      |
+| C+              | 60              |                      |
+| C               | 55              | Satisfactory         |
+| C -             | 50              |                      |
 
 
 ## Course Outline
